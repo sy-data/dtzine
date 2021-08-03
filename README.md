@@ -1,6 +1,6 @@
 
 
-[![syjang's GitHub stats](https://github-readme-stats.vercel.app/api?username=syjang&show_icons=true)]
+![syjang's GitHub stats](https://github-readme-stats.vercel.app/api?username=syjang&show_icons=true)
 
 # Website & Mobile Starter Project
 
